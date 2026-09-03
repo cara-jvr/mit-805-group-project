@@ -1,5 +1,3 @@
-# Data Folder
-
 ## Purpose
 
 This folder contains the raw data files and supporting reference data used in the project.
