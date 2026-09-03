@@ -1,5 +1,3 @@
-# Figures Folder
-
 ## Purpose
 
 This folder contains all visualizations generated during the Exploratory Data Analysis (EDA) phase.
